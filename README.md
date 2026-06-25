@@ -23,16 +23,16 @@ I'm **Pragya Jain**, a Software Developer passionate about building responsive w
 
 ## Home
 
-![Home](assets/Home.png)
+![Home](Home.png)
 
 ## About
 
-![About](assets/About.png)
+![About](About.png)
 
 ## Skills
 
-![Projects](assets/Skills.png)
+![Projects](Skills.png)
 
 ## Contact
 
-![Contact](assets/Contact.png)
+![Contact](Contact.png)
